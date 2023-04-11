@@ -1,4 +1,4 @@
-### hiya! 👋
+### heyo! 👋
 
 i'm interested in:
 - AI/ML 💻
@@ -8,7 +8,6 @@ i'm interested in:
 
 i'm currently learning:
 - [Computational Game Theory](http://gamescrafters.berkeley.edu/) 🕹️
-- [JavaScript](https://learnjavascript.online/app.html) ☕️
 
 <!--
 **SiddharthG22/SiddharthG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

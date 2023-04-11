@@ -1,13 +1,14 @@
 ### heyo! 👋
 
-i'm interested in:
-- AI/ML 💻
+i'm very interested in:
+- AI (specifically 💻
 - Quantum Computing ⚛
 - UI/UX Design 👨🏽‍💻
 - Mobile App Development 📱
 
 i'm currently learning:
 - [Computational Game Theory](http://gamescrafters.berkeley.edu/) 🕹️
+- [Quantum RNNs](https://qcb.berkeley.edu/) 🌐
 
 <!--
 **SiddharthG22/SiddharthG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

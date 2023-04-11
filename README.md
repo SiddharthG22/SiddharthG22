@@ -1,7 +1,7 @@
 ### heyo! 👋
 
 i'm very interested in:
-- AI (specifically 💻
+- AI (espcially ML + NLP) 💻
 - Quantum Computing ⚛
 - UI/UX Design 👨🏽‍💻
 - Mobile App Development 📱

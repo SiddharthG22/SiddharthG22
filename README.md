@@ -6,6 +6,10 @@ i'm interested in:
 - UI/UX Design 👨🏽‍💻
 - Mobile App Development 📱
 
+i'm currently learning:
+- [Computational Game Theory](http://gamescrafters.berkeley.edu/) 🕹️
+- [JavaScript](https://learnjavascript.online/app.html) ☕️
+
 <!--
 **SiddharthG22/SiddharthG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

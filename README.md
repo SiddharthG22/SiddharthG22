@@ -3,8 +3,8 @@
 i'm very interested in:
 - AI (espcially ML + NLP) 💻
 - Quantum Computing ⚛
-- UI/UX Design 👨🏽‍💻
 - Mobile App Development 📱
+- UI/UX Design 👨🏽‍💻
 
 i'm currently learning:
 - [Computational Game Theory](http://gamescrafters.berkeley.edu/) 🕹️

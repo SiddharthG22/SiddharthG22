@@ -1,12 +1,12 @@
 ### heyo! 👋
 
-i'm very interested in:
+**i'm very interested in:**
 - AI (espcially ML + NLP) 💻
 - Quantum Computing ⚛
 - Mobile App Development 📱
 - UI/UX Design 👨🏽‍💻
 
-i'm currently learning:
+**i'm currently learning about:**
 - [Computational Game Theory](http://gamescrafters.berkeley.edu/) 🕹️
 - [Quantum RNNs](https://qcb.berkeley.edu/) 🌐
 

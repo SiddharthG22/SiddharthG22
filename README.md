@@ -1,5 +1,4 @@
-### 
-hiya 👋
+hiya! 👋
 
 i'm interested in:
 - AI/ML 💻

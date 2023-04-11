@@ -1,9 +1,14 @@
 ### heyo! 👋
 
-interested in:
-• NLP 💻
-• Quantum Computing ⚛
-• UI/UX Design 📲
+i'm interested in:
+- NLP 💻
+- Quantum Computing ⚛
+- UI/UX Design 📲
+
+i enjoy:
+- Anything Language-Related 🌎
+- Latin/Classics 📖
+- Being Outdoors 🌲
 
 <!--
 **SiddharthG22/SiddharthG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

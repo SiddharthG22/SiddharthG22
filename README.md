@@ -1,4 +1,9 @@
-### Hi there 👋
+### heyo! 👋
+
+interested in:
+• NLP 💻
+• Quantum Computing ⚛
+• UI/UX Design 📲
 
 <!--
 **SiddharthG22/SiddharthG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

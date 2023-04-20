@@ -8,7 +8,7 @@
 
 **i'm currently learning about:**
 - [Computational Game Theory](http://gamescrafters.berkeley.edu/) 🕹️
-- [Quantum RNNs](https://qcb.berkeley.edu/) 🌐
+- [Quantum Computing](https://qcb.berkeley.edu/) 🌐
 
 <!--
 **SiddharthG22/SiddharthG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

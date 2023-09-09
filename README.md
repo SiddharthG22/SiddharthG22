@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hey there!** 👋
-I'm a sophomore at UC Berkeley studying Computer Science and Linguistics. Go Bears! 🐻
-- 💻 I'm deeply interested in NLP, RL, and Quantum Computing
+# Hey there! 👋
+## I'm a sophomore at UC Berkeley studying Computer Science and Linguistics! 🐻
+
+- 💻 I'm incredible interested in NLP, Deep Learning, and Quantum Computing
 - 🌱 I’m currently learning about [Computational Game Theory](http://gamescrafters.berkeley.edu/) and [Mobile App Development](https://mdb.dev/training-program/)
-- 📫 Please reach out to me via [email](mailto:siddharthg26@berkeley.edu) or [Linkedin]([Linkedin](https://www.linkedin.com/in/siddharthg26/)https://www.linkedin.com/in/siddharthg26/) if we have any interests in common!
+- 📫 I can be reached via [email](mailto:siddharthg26@berkeley.edu) or [Linkedin]([Linkedin](https://www.linkedin.com/in/siddharthg26/)
+- 🤔 I’m looking for any internship/research opportunities for Summer 2024

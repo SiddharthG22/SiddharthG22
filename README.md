@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 💻 I'm incredible interested in NLP, Deep Learning, and Quantum Computing
 - 🌱 I’m currently learning about [Computational Game Theory](http://gamescrafters.berkeley.edu/) and [Mobile App Development](https://mdb.dev/training-program/)
-- 📫 I can be reached via [email](mailto:siddharthg26@berkeley.edu) or [Linkedin]([Linkedin](https://www.linkedin.com/in/siddharthg26/)
+- 📫 I can be reached via [email](mailto:siddharthg26@berkeley.edu) or [Linkedin](https://www.linkedin.com/in/siddharthg26/)
 - 🤔 I’m looking for any internship/research opportunities for Summer 2024

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hey there!** 👋
+## **Hey there!** 👋
 
 I'm a sophomore at UC Berkeley studying Computer Science and Linguistics! 🐻
 

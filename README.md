@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there! 👋
-## I'm a sophomore at UC Berkeley studying Computer Science and Linguistics! 🐻
+**Hey there!** 👋
+
+I'm a sophomore at UC Berkeley studying Computer Science and Linguistics! 🐻
 
 - 💻 I'm incredible interested in NLP, Deep Learning, and Quantum Computing
 - 🌱 I’m currently learning about [Computational Game Theory](http://gamescrafters.berkeley.edu/) and [Mobile App Development](https://mdb.dev/training-program/)
